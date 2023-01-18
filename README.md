@@ -1,4 +1,4 @@
-# alu_gubi
+# Arithmetic Logic Unit - Gamified Universal Basic Income
 ALU GUBI: Gamified Universal Basic Income for GOs and NGOs
 1. Find out all minimum and maximum cost of living (CoL) for all zipcodes in USA.
 2. Adversity Score using Bindi to determine the actual CoL.
