@@ -2,13 +2,13 @@
 
 **ALU GUBI: Gamified Universal Basic Income for GOs and NGOs**
 
-This repository is the **public project of record**. The industrial encrypted CLI, Homebrew formulas, driver TUI, and GitHub Pages site are all **conditioned by** the charter below.
+This repository is the **public project of record**. The industrial encrypted CLI, Homebrew formulas, driver TUI, and GitHub Pages site are all **conditioned by** the 11 Commandments below.
 
 - **Operators / install:** https://shyamalschandra.github.io/alu-gubi-cli/
-- **Vision pillars on the site:** https://shyamalschandra.github.io/alu-gubi-cli/#vision
+- **The 11 Commandments on the site:** https://shyamalschandra.github.io/alu-gubi-cli/#vision
 - **Driver live TUI:** https://shyamalschandra.github.io/alu-gubi-cli/#driver
 
-## Charter (eleven pillars)
+## The 11 Commandments
 
 1. Find out all minimum and maximum cost of living (CoL) for all zipcodes in USA.
 2. Adversity Score using Bindi to determine the actual CoL.
